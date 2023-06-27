@@ -78,4 +78,14 @@ Nền tảng đám mây cho phép bạn thay chi phí vốn (trung tâm dữ li�
 ### Triển khai trên toàn cầu chỉ trong vài phút
 Với đám mây, bạn có thể mở rộng sang các khu vực địa lý mới và triển khai trên toàn cầu trong vài phút. Ví dụ: AWS có cơ sở hạ tầng trên toàn thế giới, vì vậy, bạn có thể triển khai ứng dụng của mình ở nhiều địa điểm thực tế chỉ bằng vài cú nhấp chuột. Đặt các ứng dụng gần hơn với người dùng cuối giúp giảm độ trễ và cải thiện trải nghiệm của họ.
 
+### Kết luận 
+
+Amazon Web Services (AWS) cung cấp hơn 175 dịch vụ đám mây để đáp ứng mọi nhu cầu có thể. Chúng tôi chỉ mô tả ngắn gọn phần nổi của tảng băng khổng lồ này. Bên cạnh các dịch vụ có mục đích chung, nó còn có hàng chục dịch vụ chuyên biệt hơn về máy học, IoT, Phương tiện và các danh mục khác. Amazon Braket thậm chí còn cho phép bạn thử nghiệm với điện toán lượng tử!
+
+Với các dịch vụ điện toán đám mây như AWS, bạn có thể tập trung vào việc phát triển các ứng dụng của mình mà không phải lo lắng quá nhiều về việc quản lý và thay đổi quy mô máy chủ của mình. Bạn trả tiền cho những gì bạn sử dụng với hầu hết các dịch vụ. Phần lớn trong số chúng được quản lý hoàn toàn, giúp giảm đáng kể tổng chi phí sở hữu bằng cách loại bỏ nhu cầu về những người tận tâm quản lý chúng.
+
+Việc làm cho ứng dụng của bạn có tính khả dụng cao, đáng tin cậy và có khả năng chịu lỗi dễ dàng hơn nhiều trong khi vẫn duy trì hiệu suất vượt trội và mở rộng quy mô trên toàn thế giới.
+
+Chi phí AWS có xu hướng cộng dồn theo số lượng dịch vụ bạn sử dụng. Đối với một công ty khởi nghiệp công nghệ trung bình, họ có thể nhanh chóng đạt đến mức độ khó chịu. May mắn thay, có một tùy chọn để đăng ký khoản tín dụng AWS miễn phí lên tới 10.000 USD từ các đối tác của họ, như FounderPass.com . Đó là một cách tuyệt vời để các công ty khởi nghiệp và nhà sáng lập ở giai đoạn đầu bắt đầu với AWS. Tư cách thành viên của họ chỉ là 99 đô la/năm để truy cập thỏa thuận này. Nhân tiện, chúng tôi không liên kết với họ theo bất kỳ cách nào.
+
 > Tài liệu tham khảo [https://aws.amazon.com/vi/](https://aws.amazon.com/vi/)
